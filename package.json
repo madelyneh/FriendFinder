@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/madelyneh/FriendFinder/issues"
   },
-  "homepage": "https://github.com/madelyneh/FriendFinder#readme"
+  "homepage": "https://github.com/madelyneh/FriendFinder#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
